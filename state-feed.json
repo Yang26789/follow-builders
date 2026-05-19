@@ -1,20 +1,6 @@
 {
-  "seenTweets": {
-    "2053872850101285137": 1778577181236,
-    "2054057995492061651": 1778577181550,
-    "2053989439945498934": 1778577181550,
-    "2053960011748098462": 1778577181550,
-    "2054063509869306204": 1778577181892,
-    "2054038194547777993": 1778577182190,
-    "2054036372215025962": 1778577182190,
-    "2054036027791294696": 1778577182190,
-    "2054010971765805486": 1778577182587,
-    "2053999857799672111": 1778577182886,
-    "2053874851824419056": 1778577182886,
-    "2053873949646405879": 1778577182886
-  },
+  "seenTweets": {},
   "seenVideos": {
-    "20105fae-4c96-11f1-a903-0b1789dff273": 1778577218599,
     "a6ff5c8c-47f4-11f1-a8a5-03b48837c50f": 1778663998913,
     "beaede5a-4d82-11f1-9272-4f6372b94ca8": 1778713618234,
     "6dac87fb-8243-4aa7-b2c4-7f79a78bf4cb": 1778713618393,
@@ -27,13 +13,16 @@
     "f351e492-c2ed-4655-a382-cf43fcfea33b": 1778919635114,
     "14e2c04e-8c47-4582-ae46-65ca96679bfe": 1778919635229,
     "2e79dafd-fc16-4887-9e14-85912127706a": 1779006848178,
-    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1779100978232
+    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1779100978232,
+    "11894f9c-52f7-11f1-a868-f30cc344c1ee": 1779185391339
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/claude-code-auto-mode": 1778663999562,
     "https://claude.com/blog/new-in-claude-managed-agents": 1778837122957,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1779100982804,
     "https://claude.com/blog/connectors-for-everyday-life": 1779100983484,
-    "https://claude.com/blog/claude-managed-agents-memory": 1779100984052
+    "https://claude.com/blog/claude-managed-agents-memory": 1779100984052,
+    "https://www.anthropic.com/engineering/managed-agents": 1779185401057,
+    "https://claude.com/blog/claude-managed-agents-updates": 1779185401776
   }
 }

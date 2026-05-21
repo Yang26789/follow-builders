@@ -1,8 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "beaede5a-4d82-11f1-9272-4f6372b94ca8": 1778713618234,
-    "6dac87fb-8243-4aa7-b2c4-7f79a78bf4cb": 1778713618393,
     "substack:post:197417280": 1778837120057,
     "7beab4e3-0160-43e8-a621-30d13e86d87f": 1778837120234,
     "0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789": 1778837120337,
@@ -15,7 +13,8 @@
     "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1779100978232,
     "11894f9c-52f7-11f1-a868-f30cc344c1ee": 1779185391339,
     "substack:post:198200418": 1779270929496,
-    "20105fae-4c96-11f1-a903-0b1789dff273": 1779270929710
+    "20105fae-4c96-11f1-a903-0b1789dff273": 1779270929710,
+    "c045e10e-9d13-499b-a4d0-8945587ba4aa": 1779357910062
   },
   "seenArticles": {
     "https://claude.com/blog/new-in-claude-managed-agents": 1778837122957,
@@ -23,6 +22,7 @@
     "https://claude.com/blog/connectors-for-everyday-life": 1779100983484,
     "https://claude.com/blog/claude-managed-agents-memory": 1779100984052,
     "https://www.anthropic.com/engineering/managed-agents": 1779185401057,
-    "https://claude.com/blog/claude-managed-agents-updates": 1779185401776
+    "https://claude.com/blog/claude-managed-agents-updates": 1779185401776,
+    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1779357917593
   }
 }

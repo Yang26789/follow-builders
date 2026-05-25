@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1779100978232,
     "11894f9c-52f7-11f1-a868-f30cc344c1ee": 1779185391339,
     "substack:post:198200418": 1779270929496,
     "20105fae-4c96-11f1-a903-0b1789dff273": 1779270929710,
@@ -19,9 +18,6 @@
     "f351e492-c2ed-4655-a382-cf43fcfea33b": 1779612345534
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1779100982804,
-    "https://claude.com/blog/connectors-for-everyday-life": 1779100983484,
-    "https://claude.com/blog/claude-managed-agents-memory": 1779100984052,
     "https://www.anthropic.com/engineering/managed-agents": 1779185401057,
     "https://claude.com/blog/claude-managed-agents-updates": 1779185401776,
     "https://www.anthropic.com/engineering/claude-code-auto-mode": 1779357917593,

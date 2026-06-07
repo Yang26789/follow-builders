@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "b024c025-1e86-4077-af33-f5f4f2ce2510": 1780219532618,
     "substack:post:198688585": 1780315861999,
     "245db97c-5de8-11f1-beb7-d7c1b176fe75": 1780397780636,
     "substack:post:200078058": 1780397780777,
@@ -20,7 +19,6 @@
     "04fabe7b-e886-49d4-a663-879cef0a049a": 1780735644201
   },
   "seenArticles": {
-    "https://claude.com/blog/new-in-claude-managed-agents": 1780219539056,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1780485867101,
     "https://claude.com/blog/connectors-for-everyday-life": 1780485867784,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1780567992678,

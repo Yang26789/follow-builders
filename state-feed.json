@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:198688585": 1780315861999,
     "245db97c-5de8-11f1-beb7-d7c1b176fe75": 1780397780636,
     "substack:post:200078058": 1780397780777,
     "a014ff02-bdcf-478b-8d23-6c05a4c35788": 1780397780895,
@@ -24,6 +23,7 @@
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1780567992678,
     "https://www.anthropic.com/engineering/managed-agents": 1780567993436,
     "https://claude.com/blog/claude-managed-agents-updates": 1780567994200,
-    "https://claude.com/blog/new-in-claude-managed-agents": 1780917696997
+    "https://claude.com/blog/new-in-claude-managed-agents": 1780917696997,
+    "https://claude.com/blog/claude-for-foundation-models": 1780999464818
   }
 }

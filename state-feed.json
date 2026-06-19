@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "c8ac5d90-6517-11f1-83d7-d3b49f07aa8f": 1781175557441,
-    "bb5cd6c0-a739-49e2-96eb-f03d5c26db38": 1781175557519,
-    "cfdceef6-642a-11f1-9b24-634dad16ced0": 1781175557587,
-    "245db97c-5de8-11f1-beb7-d7c1b176fe75": 1781175557636,
-    "a014ff02-bdcf-478b-8d23-6c05a4c35788": 1781175557689,
-    "0c2c7d0c-5fc8-11f1-84fd-97552ff30f86": 1781260838371,
-    "substack:post:199994886": 1781260838528,
-    "substack:post:200432443": 1781260838638,
-    "39522bf7-c802-4596-a9bc-2f1b28b51c39": 1781260838757,
-    "10556d62-a6f5-44a2-aae6-0cb62f28313b": 1781260838877,
     "dbb5e4ba-4a75-4107-b2e2-3d2b7c90dd36": 1781343435988,
     "substack:post:200614482": 1781343436121,
     "19ae4fac-acd5-40bf-b6a7-168292c2c275": 1781343436263,
@@ -18,14 +8,13 @@
     "a66948ce-6ab7-11f1-8901-5f20f0cddb6d": 1781779737130,
     "substack:post:202058620": 1781779737289,
     "a7d1fb70-81db-44be-92b8-e46db37a1532": 1781779737366,
-    "0fae4dc4-6456-11f1-9180-3f07b7c1bee8": 1781779737439
+    "0fae4dc4-6456-11f1-9180-3f07b7c1bee8": 1781779737439,
+    "substack:post:202359797": 1781866692774,
+    "dcd52486-f53c-4374-9265-02f38a80f5f7": 1781866692914
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1781260848870,
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1781260853525,
-    "https://www.anthropic.com/engineering/managed-agents": 1781260858219,
-    "https://claude.com/blog/claude-managed-agents-updates": 1781260858879,
     "https://claude.com/blog/new-in-claude-managed-agents": 1781609803748,
-    "https://claude.com/blog/claude-for-foundation-models": 1781695103492
+    "https://claude.com/blog/claude-for-foundation-models": 1781695103492,
+    "https://claude.com/blog/artifacts-in-claude-code": 1781866695561
   }
 }

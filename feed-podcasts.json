@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-06-24T09:52:04.690Z",
+  "generatedAt": "2026-06-25T09:45:50.869Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Building a School Where AI Models Learn About Humanity\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Red-Teaming after Mythos — Zico Kolter &amp; Matt Fredrikson, Gray Swan\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Simulating Humans at Scale: Simile's Joon Sung Park\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "a66948ce-6ab7-11f1-8901-5f20f0cddb6d": 1781779737130,
-    "substack:post:202058620": 1781779737289,
-    "a7d1fb70-81db-44be-92b8-e46db37a1532": 1781779737366,
-    "0fae4dc4-6456-11f1-9180-3f07b7c1bee8": 1781779737439,
     "substack:post:202359797": 1781866692774,
     "dcd52486-f53c-4374-9265-02f38a80f5f7": 1781866692914,
     "c8ac5d90-6517-11f1-83d7-d3b49f07aa8f": 1781948660069,
@@ -14,13 +10,15 @@
     "6ae01ce4-60f3-48ba-9f63-c352a10dc8d2": 1782380750546,
     "a982f792-6f55-11f1-b29a-1be1b9f3ee0a": 1782380750671,
     "substack:post:202758604": 1782380750761,
-    "e2c76d2e-68ea-11f1-b835-0fa4c8d306ac": 1782380750868
+    "e2c76d2e-68ea-11f1-b835-0fa4c8d306ac": 1782380750868,
+    "5ae96ad9-5cee-4cda-ad01-8edea9dfbc0a": 1782467574118
   },
   "seenArticles": {
     "https://claude.com/blog/artifacts-in-claude-code": 1781866695561,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1781948662650,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1781948664098,
     "https://www.anthropic.com/engineering/managed-agents": 1781948666060,
-    "https://claude.com/blog/claude-managed-agents-updates": 1781948666749
+    "https://claude.com/blog/claude-managed-agents-updates": 1781948666749,
+    "https://claude.com/blog/claude-for-foundation-models": 1782467575902
   }
 }

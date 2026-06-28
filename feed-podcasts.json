@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-06-27T09:06:30.740Z",
+  "generatedAt": "2026-06-28T09:33:47.340Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"GitHub’s COO Explains Why AI Hasn’t Replaced Developers\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"The Professor of Outputmaxxing — Anjney Midha, AMP\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"The GPU Myth: State of AI Compute 2026 | Stephen Balaban\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

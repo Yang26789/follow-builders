@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-07-01T10:16:40.839Z",
+  "generatedAt": "2026-07-02T09:34:36.295Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"The AI Workflows Behind Every's Consulting Team\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

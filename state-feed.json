@@ -1,10 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "6ae01ce4-60f3-48ba-9f63-c352a10dc8d2": 1782380750546,
-    "a982f792-6f55-11f1-b29a-1be1b9f3ee0a": 1782380750671,
-    "substack:post:202758604": 1782380750761,
-    "e2c76d2e-68ea-11f1-b835-0fa4c8d306ac": 1782380750868,
     "5ae96ad9-5cee-4cda-ad01-8edea9dfbc0a": 1782467574118,
     "32e4b7a0-7118-11f1-a100-bf8895cb33ba": 1782551190413,
     "substack:post:203293676": 1782551190534,
@@ -13,7 +9,10 @@
     "substack:post:202359797": 1782639227199,
     "dcd52486-f53c-4374-9265-02f38a80f5f7": 1782639227340,
     "fb9d2daa-719d-11f1-9e13-9f44da352371": 1782813777623,
-    "3a41b0c9-9f64-41b5-b88e-6b3dfce609b5": 1782984876294
+    "3a41b0c9-9f64-41b5-b88e-6b3dfce609b5": 1782984876294,
+    "ee5028a8-75be-11f1-bab0-67711adf1682": 1783071409546,
+    "8cc3ae0d-bd6a-4b43-a0a4-6ee35f9b802e": 1783071409705,
+    "substack:post:204393300": 1783071409769
   },
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1782467575902,

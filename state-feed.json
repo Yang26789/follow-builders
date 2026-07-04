@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "5ae96ad9-5cee-4cda-ad01-8edea9dfbc0a": 1782467574118,
     "32e4b7a0-7118-11f1-a100-bf8895cb33ba": 1782551190413,
     "substack:post:203293676": 1782551190534,
     "a66948ce-6ab7-11f1-8901-5f20f0cddb6d": 1782551190624,
@@ -12,10 +11,12 @@
     "3a41b0c9-9f64-41b5-b88e-6b3dfce609b5": 1782984876294,
     "ee5028a8-75be-11f1-bab0-67711adf1682": 1783071409546,
     "8cc3ae0d-bd6a-4b43-a0a4-6ee35f9b802e": 1783071409705,
-    "substack:post:204393300": 1783071409769
+    "substack:post:204393300": 1783071409769,
+    "6ae01ce4-60f3-48ba-9f63-c352a10dc8d2": 1783155722741,
+    "a982f792-6f55-11f1-b29a-1be1b9f3ee0a": 1783155722918,
+    "substack:post:202758604": 1783155723025
   },
   "seenArticles": {
-    "https://claude.com/blog/claude-for-foundation-models": 1782467575902,
     "https://claude.com/blog/artifacts-in-claude-code": 1782639229736,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1782732315801,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1782732321855,

@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-07-06T11:06:23.498Z",
+  "generatedAt": "2026-07-07T10:01:55.981Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Inside Zipline's Autonomous System: 140M Miles, Zero Incidents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

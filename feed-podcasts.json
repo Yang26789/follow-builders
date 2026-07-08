@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-07-07T10:01:55.981Z",
+  "generatedAt": "2026-07-08T08:45:28.201Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Inside Zipline's Autonomous System: 140M Miles, Zero Incidents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

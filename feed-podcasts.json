@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-07-09T10:03:48.888Z",
+  "generatedAt": "2026-07-10T09:54:05.237Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How a Writer Uses AI Without Losing His Voice\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"The AI Workflows Behind Every's Consulting Team\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

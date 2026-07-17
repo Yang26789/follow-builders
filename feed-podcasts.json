@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-07-16T08:35:26.982Z",
+  "generatedAt": "2026-07-17T08:29:40.902Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Inside Zipline's Autonomous System: 140M Miles, Zero Incidents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam &amp; Rafa Gómez-Bombarelli, Lila Sciences\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

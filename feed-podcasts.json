@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-07-19T08:35:04.235Z",
+  "generatedAt": "2026-07-20T09:36:11.016Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-21T08:47:28.364Z",
+  "generatedAt": "2026-07-22T08:46:31.955Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang &amp; Ci Chu, Chief Discovery Officer &amp; Chief AI Scientist)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

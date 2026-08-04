@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-08-03T10:07:14.402Z",
+  "generatedAt": "2026-08-04T09:11:00.890Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

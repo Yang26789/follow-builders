@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-19T07:07:35.805Z",
+  "generatedAt": "2026-08-20T07:08:23.221Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

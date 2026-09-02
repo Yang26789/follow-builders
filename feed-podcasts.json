@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-09-01T11:43:44.137Z",
+  "generatedAt": "2026-09-02T11:24:27.630Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

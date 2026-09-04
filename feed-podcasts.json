@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-09-03T11:20:31.275Z",
+  "generatedAt": "2026-09-04T11:25:48.976Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Redefining Chip Architecture with Arm CEO Rene Haas\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How a Professional Writer Writes With AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Parallel’s Parag Agrawal: Building a New Web for AI Agents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

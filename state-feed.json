@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1788007403038,
     "substack:post:212197985": 1788091100678,
     "2361fcb0-a56c-11f1-bcee-5b403a4e1902": 1788263024137,
     "8476d0dc-a726-11f1-86e6-bbc25e1787ef": 1788434430878,
@@ -16,6 +15,9 @@
   "seenArticles": {
     "https://claude.com/blog/claude-in-chrome-generally-available": 1788604851356,
     "https://claude.com/blog/cowork-built-in-browser": 1788604851894,
-    "https://claude.com/blog/artifacts-in-claude-code": 1788604852431
+    "https://claude.com/blog/artifacts-in-claude-code": 1788604852431,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1788692541282,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1788692541901,
+    "https://www.anthropic.com/engineering/managed-agents": 1788692542532
   }
 }

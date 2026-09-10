@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-09T11:29:26.275Z",
+  "generatedAt": "2026-09-10T11:26:30.933Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

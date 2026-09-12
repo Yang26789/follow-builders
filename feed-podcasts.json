@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-09-11T11:27:58.223Z",
+  "generatedAt": "2026-09-12T10:52:57.671Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"When AI Improves Itself | Richard Socher (Recursive)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Redefining Chip Architecture with Arm CEO Rene Haas\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How a Professional Writer Writes With AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

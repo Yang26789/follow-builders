@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-14T12:55:52.792Z",
+  "generatedAt": "2026-09-15T11:49:59.632Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Humanity’s Last Invention — Richard Socher of Recursive\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

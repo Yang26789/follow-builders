@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-17T11:47:43.167Z",
+  "generatedAt": "2026-09-18T11:22:28.472Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

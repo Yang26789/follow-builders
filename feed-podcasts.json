@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-19T11:05:43.888Z",
+  "generatedAt": "2026-09-20T11:30:39.443Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"When AI Improves Itself | Richard Socher (Recursive)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

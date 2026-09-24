@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-23T11:44:24.800Z",
+  "generatedAt": "2026-09-24T11:53:09.105Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

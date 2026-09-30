@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-09-29T12:59:45.683Z",
+  "generatedAt": "2026-09-30T12:41:54.754Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Claude Code’s Next Era — Thariq Shihipar, Anthropic\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-30T12:41:54.754Z",
+  "generatedAt": "2026-10-01T13:25:13.149Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Why AI Agents Cheat | Eric Ho (Goodfire)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How Sam Altman Uses Dots to Take Back His Time\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

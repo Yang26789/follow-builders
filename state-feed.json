@@ -1,20 +1,19 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "09985d98-67c4-4c5e-a1be-6d201c56bc55": 1790250788676,
-    "e2eb4b88-b7c1-11f1-a5c5-4b2557d321bc": 1790250788802,
-    "substack:post:216723291": 1790250788884,
-    "substack:post:216845528": 1790250788964,
-    "substack:post:216783460": 1790250789038,
-    "d2e9aa74-b080-11f1-8007-f31e2b6b4e53": 1790250789105,
     "substack:post:217289983": 1790337349247,
     "substack:post:217456046": 1790422213902,
     "51c4092c-b309-11f1-8603-fb8d30e1277f": 1790422214021,
-    "substack:post:217893105": 1790686785683
+    "substack:post:217893105": 1790686785683,
+    "4d4e243f-5de7-4e16-98a5-f01201bf511e": 1790861112874,
+    "substack:post:218243619": 1790861113060,
+    "flightcast:01M3SP9F8QKB4V4J9RPKX41XFM": 1790861113149
   },
   "seenArticles": {
-    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1790250789451,
     "https://claude.com/blog/cowork-is-now-claude": 1790337349507,
-    "https://claude.com/blog/claude-in-chrome-generally-available": 1790772115046
+    "https://claude.com/blog/claude-in-chrome-generally-available": 1790772115046,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1790861113436,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1790861114037,
+    "https://www.anthropic.com/engineering/managed-agents": 1790861114639
   }
 }

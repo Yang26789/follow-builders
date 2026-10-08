@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-07T13:31:28.726Z",
+  "generatedAt": "2026-10-08T13:37:23.423Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Claude Code’s Next Era — Thariq Shihipar, Anthropic\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Why Every Traded Personal Agents for One Company Agent\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

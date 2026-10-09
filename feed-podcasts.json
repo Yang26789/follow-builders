@@ -1,12 +1,15 @@
 {
-  "generatedAt": "2026-10-08T13:37:23.423Z",
+  "generatedAt": "2026-10-09T13:23:29.464Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why Every Traded Personal Agents for One Company Agent\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"AI Models Are Now Hiding Their Cheating | Eric Ho (Goodfire)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How Sam Altman Uses Dots to Take Back His Time\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-10-10T12:38:26.820Z",
+  "generatedAt": "2026-10-11T12:58:06.926Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Academia is for Ambition — Alex Zhang, MIT\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

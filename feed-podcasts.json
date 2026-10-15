@@ -1,12 +1,15 @@
 {
-  "generatedAt": "2026-10-14T11:59:44.580Z",
+  "generatedAt": "2026-10-15T11:36:38.872Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp; Why Post-Training Wins Inference\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"“95% Einstein, 5% Mr. Bean”: Jev’s Creator on Why AI Can’t Automate Anything Reliably (Diogo Almeida)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Revolutionizing Cybersecurity and AI-Driven Science with OpenAI President Greg Brockman\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How Hugging Face’s Investor Spots Winners\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

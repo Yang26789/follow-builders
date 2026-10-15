@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:217893105": 1791379888726,
     "8a1c6546-cdae-4bef-883d-56cb734967df": 1791466643354,
     "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY": 1791466643422,
     "994123ec-c395-11f1-b01e-fff03490a570": 1791552209067,
@@ -14,7 +13,12 @@
     "substack:post:218414422": 1791635906820,
     "d7ae4536-c437-11f1-9011-633961538ee5": 1791901089807,
     "77097e65-4ead-46c4-b497-36fa09bd0f11": 1791979184510,
-    "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791979184580
+    "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791979184580,
+    "c1edee86-471f-4e57-848d-a45a5de1dc53": 1792064198435,
+    "6fed676e-c84d-11f1-a40c-678dc1ca0b76": 1792064198556,
+    "substack:post:220316507": 1792064198651,
+    "flightcast:01M4WXZJC42R6K30JBFDV56TDM": 1792064198768,
+    "substack:post:220234130": 1792064198872
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1791552209764,

@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-10-27T12:19:39.641Z",
+  "generatedAt": "2026-10-28T13:03:05.917Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

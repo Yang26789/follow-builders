@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-10-28T13:03:05.917Z",
+  "generatedAt": "2026-10-29T13:10:14.661Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Can You Use AI To Make Good Art? — With Fred Graver\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp; Origins of the Sandbox Bet\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Why Agents Love Supabase\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

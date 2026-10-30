@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T13:10:14.661Z",
+  "generatedAt": "2026-10-30T13:02:55.706Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Can You Use AI To Make Good Art? — With Fred Graver\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp; Origins of the Sandbox Bet\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Why Agents Love Supabase\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Mistral Is SO Back: Inside Le Chonk, the West’s Biggest Open Model (Pierre Stock, VP Science, Mistral)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How a Frontier Team Can Help Your Company Keep Up With AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

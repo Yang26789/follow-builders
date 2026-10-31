@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-10-30T13:02:55.706Z",
+  "generatedAt": "2026-10-31T12:41:09.425Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Mistral Is SO Back: Inside Le Chonk, the West’s Biggest Open Model (Pierre Stock, VP Science, Mistral)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How a Frontier Team Can Help Your Company Keep Up With AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

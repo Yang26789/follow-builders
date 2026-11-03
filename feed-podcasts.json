@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T16:05:46.438Z",
+  "generatedAt": "2026-11-03T14:24:17.595Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

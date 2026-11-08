@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-11-07T13:11:03.537Z",
+  "generatedAt": "2026-11-08T13:32:24.614Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Controlling Biology - Fabian Theis, Helmholtz Munich\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }

@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-08T13:32:24.614Z",
+  "generatedAt": "2026-11-09T16:30:09.569Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }

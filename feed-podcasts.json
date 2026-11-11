@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-10T14:58:17.761Z",
+  "generatedAt": "2026-11-11T14:28:54.112Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Designing for Agents — Zeno Rocha, Resend\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

@@ -1,12 +1,14 @@
 {
-  "generatedAt": "2026-11-12T15:21:13.319Z",
+  "generatedAt": "2026-11-13T14:39:46.395Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"A New Vision for Human Work After Automation\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Ep 97: Jev Creator on Decision Models, Benchmark Fatigue &amp; Why the Labs Missed It\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"The Inside Story of the 50 Who Built Modern AI With Kevin Roose\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }

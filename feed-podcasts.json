@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-11-26T16:59:25.231Z",
+  "generatedAt": "2026-11-27T16:45:06.096Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"The Revolution vs The Renaissance — Thariq Shihipar, OpenAI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"How Clay Builds GTM Agents — Jeff Barg, Head of AI\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Notion’s Founder on the One Thing Your AI Is Missing\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }
